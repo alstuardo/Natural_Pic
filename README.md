@@ -1,13 +1,3 @@
-# React + Vite
+Natural Pic
 
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+React Router and Context
